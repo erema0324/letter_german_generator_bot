@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Telegram Letter Generator Bot</title>
+  <title></title>
 </head>
 <body>
 
